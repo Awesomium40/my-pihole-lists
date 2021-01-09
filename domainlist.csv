@@ -28,8 +28,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 28,1,api.us-east-1.aiv-delivery.net,1,1599276405,1599276405,"Added from Query Log"
 29,1,nimnmevpsjqc,1,1599276416,1599276416,"Added from Query Log"
 30,1,mroxnwyoyv,1,1599276419,1599276419,"Added from Query Log"
-31,1,canvjczz,1,1599276423,1599276423,"Added from Query Log"
-34,1,gphrvzsviyoj,1,1599276814,1599276814,"Added from Query Log"
+31,1,canvjczz,1,1599276423,1610207470,"Added from Query Log"
+34,1,gphrvzsviyoj,1,1599276814,1610207471,"Added from Query Log"
 35,1,vlmgsknu,1,1599276818,1599276818,"Added from Query Log"
 36,1,ebnbnrko,1,1599276821,1599276821,"Added from Query Log"
 37,0,co1.qualtrics.com,1,1600749046,1600749046,"Added from Query Log"
@@ -55,5 +55,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 58,0,api.segment.io,0,1604438509,1604493072,"Added from Query Log"
 59,1,api.amazon.com,1,1604918133,1604918133,"Added from Query Log"
 60,0,api.amazon.com,1,1607043629,1607043629,"Added from Query Log"
-61,3,(\.|^)youtube\.com$,0,1608762896,1610205057,
-62,3,(\.|^)coolmathgames\.com$,0,1608762908,1610205058,
+61,3,(\.|^)youtube\.com$,1,1608762896,1610207473,
+62,3,(\.|^)coolmathgames\.com$,1,1608762908,1610207473,
