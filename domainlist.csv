@@ -1,21 +1,59 @@
 id,type,domain,enabled,date_added,date_modified,comment
-19,3,^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.],1,1585426668,1608564394,
-20,3,^(.+[-_.])??ad[sxv]?[0-9]*[-_.],1,1585426668,1608564396,
-21,3,^(.+[-_.])??telemetry[-.],1,1585426668,1608564398,
-22,3,^(.+[-_.])??xn--,1,1585426668,1608564400,
-23,3,^adim(age|g)s?[0-9]*[-_.],1,1585426668,1608564401,
-24,3,^adtrack(er|ing)?[0-9]*[-.],1,1585426668,1608564403,
-25,3,^advert(s|is(ing|ements?))?[0-9]*[-_.],1,1585426668,1608564404,
-26,3,^aff(iliat(es?|ion))?[-.],1,1585426668,1608564405,
-27,3,^analytics?[-.],1,1585426668,1608564406,
-28,3,^banners?[-.],1,1585426668,1608564408,
-29,3,^beacons?[0-9]*[-.],1,1585426668,1608564427,
-30,3,^count(ers?)?[0-9]*[-.],1,1585426668,1608564421,
-31,3,^pixels?[-.],1,1585426668,1608564418,
-32,3,^stat(s|istics)?[0-9]*[-.],1,1585426668,1608564415,
-33,3,^track(ers?|ing)?[0-9]*[-.],1,1585426668,1608564413,
-34,3,^traff(ic)?[-.],1,1585426668,1608564412,
-35,3,^(ads|logs|cloudservices).roku.com$,1,1585426668,1608564411,
-36,0,track.shipstation.com,1,1586220825,1589684086,"USPS tracking"
-37,0,ib.huluim.com,1,1593787890,1593787985,"Hulu scrubbing thumbnails"
-43,2,^beacons([0-9])?\.(gcp\.)?gvt([0-9])\.com$,1,1608398374,1608398374,"Fixes Google Meet buttons"
+1,1,watson.telemetry.microsoft.com.nsatc.net,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+2,1,watson.telemetry.microsoft.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+3,1,watson.ppe.telemetry.microsoft.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+4,1,watson.microsoft.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+5,1,watson.live.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+6,1,telemetry.microsoft.com.nsatc.net,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+7,1,telemetry.microsoft.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+8,1,settings-win.data.microsoft.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+9,1,okgietl,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+10,1,fave.api.cnn.io,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/blacklist.txt"
+11,0,mcc.godaddy.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/whitelist.txt"
+12,0,thepiratebay.org,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/whitelist.txt"
+13,0,www.fling.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/whitelist.txt"
+14,0,tracker.affirm.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/whitelist.txt"
+15,0,api-cf.affirm.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/whitelist.txt"
+16,0,mandrillapp.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/whitelist.txt"
+17,0,myaccupoint.com,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/whitelist.txt"
+18,3,(\.|^)telemetry\.urs\.microsoft\.com$,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/wildcardblocking.txt"
+19,3,(\.|^)beap\.gemini\.yahoo\.com$,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/wildcardblocking.txt"
+20,3,(\.|^)ashleymadison\.com$,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/wildcardblocking.txt"
+21,3,(\.|^)wurgketqngzr$,1,1595438135,1599248784,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/wildcardblocking.txt"
+22,1,connectivitycheck.gstatic.com,1,1595857994,1599248784,"Added from Query Log"
+23,0,connectivitycheck.gstatic.com,1,1595859371,1599248784,"Added from Query Log"
+25,0,brown.co1.qualtrics.com,1,1597662233,1599248784,"Added from Query Log"
+26,0,zned1irqcyinfbpk9-qps.siteintercept.qualtrics.com,1,1597662240,1599248784,"Added from Query Log"
+27,0,zn0xmxq4camg7mvzh-qxm.siteintercept.qualtrics.com,1,1597662244,1599248784,"Added from Query Log"
+28,1,api.us-east-1.aiv-delivery.net,1,1599276405,1599276405,"Added from Query Log"
+29,1,nimnmevpsjqc,1,1599276416,1599276416,"Added from Query Log"
+30,1,mroxnwyoyv,1,1599276419,1599276419,"Added from Query Log"
+31,1,canvjczz,1,1599276423,1599276423,"Added from Query Log"
+34,1,gphrvzsviyoj,1,1599276814,1599276814,"Added from Query Log"
+35,1,vlmgsknu,1,1599276818,1599276818,"Added from Query Log"
+36,1,ebnbnrko,1,1599276821,1599276821,"Added from Query Log"
+37,0,co1.qualtrics.com,1,1600749046,1600749046,"Added from Query Log"
+38,0,www.qualtrics.com,1,1600784643,1600784643,"Added from Query Log"
+39,0,api.qualtrics.com,1,1600785549,1600785549,
+40,2,(\.|^)qualtrics\.com$,1,1600798039,1600798039,
+41,3,(\.|^)app-measurement\.com$,0,1602830427,1602831319,
+42,1,static.ziffprod.net,0,1602830544,1602831317,"Added from Query Log"
+43,1,53df43d5.g02.ign.com,1,1602830561,1602830561,"Added from Query Log"
+44,1,e8709.ksd.akamaiedge.net,0,1602830602,1602831303,"Added from Query Log"
+45,1,e8709.dscb.akamaiedge.net,0,1602830607,1602831301,"Added from Query Log"
+46,1,a1694.w7.akamai.net,0,1602830616,1602831300,"Added from Query Log"
+47,0,hubt.pornhub.com,1,1602830646,1602830646,"Added from Query Log"
+49,1,a9010d017688211ea9afe0620acb249f-596514373.us-east-1.elb.amazonaws.com,0,1602830688,1602831299,"Added from Query Log"
+50,1,e5042.dsce2.akamaiedge.net,0,1602830714,1602831291,"Added from Query Log"
+51,3,(\.|^)akamaiedge\.net$,0,1602830748,1602831280,
+52,0,init-cdn.itunes-apple.com.akadns.net,1,1602830958,1602830958,"Added from Query Log"
+53,0,api.leanplum.com,1,1602831024,1602831024,"Added from Query Log"
+54,0,apps.mzstatic.com,1,1602831257,1602831257,"Added from Query Log"
+55,1,platform.twitter.map.fastly.net,1,1603204416,1603204416,"Added from Query Log"
+56,0,cachemd.fling.com,1,1604438470,1604438470,"Added from Query Log"
+57,0,cachewp.fling.com,1,1604438476,1604438476,"Added from Query Log"
+58,0,api.segment.io,0,1604438509,1604493072,"Added from Query Log"
+59,1,api.amazon.com,1,1604918133,1604918133,"Added from Query Log"
+60,0,api.amazon.com,1,1607043629,1607043629,"Added from Query Log"
+61,3,(\.|^)youtube\.com$,1,1608762896,1610151394,
+62,3,(\.|^)coolmathgames\.com$,1,1608762908,1610151398,

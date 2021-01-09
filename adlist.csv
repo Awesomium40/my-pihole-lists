@@ -1,2 +1,24 @@
-id,address,enabled,date_added,date_modified,comment,date_updated
-1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1585426667,1593348722,Default,1609016914
+id,address,enabled,date_added,date_modified,comment
+1,https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts,1,1595437883,1608824528,"Migrated from /etc/pihole/adlists.list"
+2,https://mirror1.malwaredomains.com/files/justdomains,1,1595437883,1608824531,"Migrated from /etc/pihole/adlists.list"
+3,"# The below list amalgamates several lists we used previously.",1,1595438135,1608824533,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+4,"# See `https://github.com/StevenBlack/hosts` for details",1,1595438135,1608824536,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+5,"##StevenBlack's list",1,1595438135,1608824538,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+7,##MalwareDomains,1,1595438135,1608824541,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+9,##Cameleon,1,1595438135,1608824543,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+10,http://sysctl.org/cameleon/hosts,1,1595438135,1608824548,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+11,##Zeustracker,1,1595438135,1608824546,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+12,https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist,1,1595438135,1608824551,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+13,"##Disconnect.me Tracking",1,1595438135,1608824556,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+14,https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt,1,1595438135,1608824558,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+15,"##Disconnect.me Ads",1,1595438135,1608824560,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+16,https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt,1,1595438135,1608824565,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+17,##Hosts-file.net,1,1595438135,1608824568,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+18,https://hosts-file.net/ad_servers.txt,1,1595438135,1608824571,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+19,https://raw.githubusercontent.com/quidsup/notrack/master/malicious-sites.txt,1,1595438135,1608824573,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+20,https://raw.githubusercontent.com/quidsup/notrack/master/trackers.txt,1,1595438135,1608824576,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+21,https://dbl.oisd.nl,1,1595438135,1608824579,"Imported from pi-hole-teleporter_2020-07-20_08-36-18.tar.gz/adlists.list"
+22,https://gitlab.com/quidsup/notrack-blocklists/-/blob/master/notrack-blocklist.txt,1,1597379754,1608824583,
+23,https://gitlab.com/quidsup/notrack-blocklists/-/blob/master/notrack-malware.txt,1,1597379776,1608824593,
+24,https://blocklistproject.github.io/Lists/tracking.txt,1,1597467048,1608824595,
+25,https://blocklistproject.github.io/Lists/ads.txt,1,1597467104,1608824597,
