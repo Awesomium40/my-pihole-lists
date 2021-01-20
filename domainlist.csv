@@ -57,4 +57,3 @@ id,type,domain,enabled,date_added,date_modified,comment
 60,0,api.amazon.com,1,1607043629,1607043629,"Added from Query Log"
 61,3,(\.|^)youtube\.com$,0,1608762896,1610208418,
 62,3,(\.|^)coolmathgames\.com$,0,1608762908,1610208418,
-63,1,customerevents.netflix.com,1,1611005120,1611005120,"Added from Query Log"
