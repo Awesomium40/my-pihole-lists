@@ -55,6 +55,8 @@ id,type,domain,enabled,date_added,date_modified,comment
 58,0,api.segment.io,0,1604438509,1604493072,"Added from Query Log"
 59,1,api.amazon.com,1,1604918133,1604918133,"Added from Query Log"
 60,0,api.amazon.com,1,1607043629,1607043629,"Added from Query Log"
-61,3,(\.|^)youtube\.com$,0,1608762896,1610208418,
-62,3,(\.|^)coolmathgames\.com$,0,1608762908,1610208418,
+61,3,(\.|^)youtube\.com$,1,1608762896,1611357763,
+62,3,(\.|^)coolmathgames\.com$,1,1608762908,1611357764,
 64,1,customerevents.netflix.com,1,1611182652,1611182652,
+65,3,(\.|^)chess\.com$,1,1611357786,1611357806,
+66,3,(\.|^)sudoku\.com$,1,1611357797,1611357810,
