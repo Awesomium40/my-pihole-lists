@@ -60,3 +60,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 64,1,customerevents.netflix.com,1,1611182652,1611182652,
 65,3,(\.|^)chess\.com$,1,1611357786,1611357806,
 66,3,(\.|^)sudoku\.com$,1,1611357797,1611357810,
+67,0,t.paypal.com,1,1618460108,1618460108,"Added from Query Log"
