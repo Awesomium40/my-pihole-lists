@@ -66,3 +66,6 @@ id,type,domain,enabled,date_added,date_modified,comment
 70,0,ichnaea.netflix.com,1,1623196280,1623196280,"Added from Query Log"
 71,0,csi.gstatic.com,1,1623209940,1623209940,"Added from Query Log"
 72,0,vast.extremereach.io,1,1623209992,1623209992,"Added from Query Log"
+73,0,jssdks.mparticle.com,1,1623210038,1623210038,"Added from Query Log"
+74,1,jssdks.mparticle.com,1,1623210092,1623210092,"Added from Query Log"
+75,1,star-mini.c10r.facebook.com,1,1623210113,1623210113,"Added from Query Log"
