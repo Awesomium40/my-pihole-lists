@@ -64,3 +64,5 @@ id,type,domain,enabled,date_added,date_modified,comment
 68,0,cdn-gl.imrworldwide.com,1,1623196253,1623196253,"Added from Query Log"
 69,0,secure-dcr.imrworldwide.com,1,1623196268,1623196268,"Added from Query Log"
 70,0,ichnaea.netflix.com,1,1623196280,1623196280,"Added from Query Log"
+71,0,csi.gstatic.com,1,1623209940,1623209940,"Added from Query Log"
+72,0,vast.extremereach.io,1,1623209992,1623209992,"Added from Query Log"
