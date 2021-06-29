@@ -69,3 +69,4 @@ id,type,domain,enabled,date_added,date_modified,comment
 73,0,jssdks.mparticle.com,1,1623210038,1623210038,"Added from Query Log"
 75,1,star-mini.c10r.facebook.com,1,1623210113,1623210113,"Added from Query Log"
 77,1,jssdks.mparticle.com,1,1623211347,1623211347,"Added from Query Log"
+78,0,androidtvwatsonfe-pa.googleapis.com,1,1625007576,1625007576,"Added from Query Log"
